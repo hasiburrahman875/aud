@@ -2,7 +2,8 @@
 This site contains the link to the augmented dataset. Thank you for visiting. Please cite both of the following papers when using the dataset.
 
 Dataset Link (Release 01): [http://tinyurl.com/25c7a4ya](http://tinyurl.com/433akuwp) 
-For the Password of the dataset, please send an email to mrpk9@mst.edu
+
+For the Password to access the dataset through above link, please send an email to mrpk9@mst.edu
 
 [1] M. H. Rahman and S. Madria, "An Augmented Dataset for Vision-based Unmanned Aerial Vehicles Detection and Tracking," in Proceedings of the _IEEE Workshop on Applied Imagery Pattern Recognition (AIPR)_, 52nd ed., St. Louis, Missouri, USA, Sept 27-29, 2023.
 
