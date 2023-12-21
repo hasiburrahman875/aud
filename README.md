@@ -1,7 +1,7 @@
 # augmented_uav_detection_and_tracking_dataset
 This site contains the link to the augmented dataset. Thank you for visiting. Please cite both of the following papers when using the dataset.
 
-Dataset Link (Release 01): http://tinyurl.com/e2n6wndz
+Dataset Link (Release 01): http://tinyurl.com/25c7a4ya
 
 [1] M. H. Rahman and S. Madria, "An Augmented Dataset for Vision-based Unmanned Aerial Vehicles Detection and Tracking," in Proceedings of the _IEEE Workshop on Applied Imagery Pattern Recognition (AIPR)_, 52nd ed., St. Louis, Missouri, USA, Sept 27-29, 2023.
 
