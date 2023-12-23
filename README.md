@@ -1,5 +1,5 @@
 # An Augmented Dataset for UAV Detection and Tracking 
-This site contains the link to the augmented dataset. Thank you for visiting. Please cite both of the following papers when using the dataset.
+This site contains the link to the augmented UAV dataset. We augmented the UAVs in the original UAV to UAV detection and tracking videos from paper [2]. Thank you for visiting. Please cite both of the following papers when using the dataset.
 
 Dataset Link (Release 01): [http://tinyurl.com/25c7a4ya](http://tinyurl.com/433akuwp) 
 
