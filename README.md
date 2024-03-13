@@ -5,16 +5,16 @@ Dataset Link (Release 01): [http://tinyurl.com/25c7a4ya](http://tinyurl.com/433a
 
 To access the dataset through the provided link, kindly request the password by sending an email to mrpk9@mst.edu.
 
-[1] Citation Bibtex:
-@INPROCEEDINGS{10440657,
-  author={Rahman, Md Hasibur and Madria, Sanjay},
-  booktitle={2023 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)}, 
-  title={An Augmented Dataset for Vision-based Unmanned Aerial Vehicles Detection and Tracking}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/AIPR60534.2023.10440657}
+[1] Citation Bibtex: \n
+@INPROCEEDINGS{10440657,\n
+  author={Rahman, Md Hasibur and Madria, Sanjay},\n
+  booktitle={2023 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)}, \n
+  title={An Augmented Dataset for Vision-based Unmanned Aerial Vehicles Detection and Tracking}, \n
+  year={2023},\n
+  volume={},\n
+  number={},\n
+  pages={1-8},\n
+  doi={10.1109/AIPR60534.2023.10440657} \n
 }
 
 [2] 
