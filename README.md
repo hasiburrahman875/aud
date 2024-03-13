@@ -14,10 +14,11 @@ To access the dataset through the provided link, kindly request the password by 
   volume={},
   number={},
   pages={1-8},
-  doi={10.1109/AIPR60534.2023.10440657}}
+  doi={10.1109/AIPR60534.2023.10440657}
+}
 
-
-[2] @ARTICLE{9519550,
+[2] 
+@ARTICLE{9519550,
   author={Li, Jing and Ye, Dong Hye and Kolsch, Mathias and Wachs, Juan P. and Bouman, Charles A.},
   journal={IEEE Transactions on Emerging Topics in Computing}, 
   title={Fast and Robust UAV to UAV Detection and Tracking From Video}, 
@@ -25,5 +26,7 @@ To access the dataset through the provided link, kindly request the password by 
   volume={10},
   number={3},
   pages={1519-1531},
-  doi={10.1109/TETC.2021.3104555}}
+  doi={10.1109/TETC.2021.3104555}
+}
+
 
