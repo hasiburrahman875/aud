@@ -5,6 +5,25 @@ Dataset Link (Release 01): [http://tinyurl.com/25c7a4ya](http://tinyurl.com/433a
 
 To access the dataset through the provided link, kindly request the password by sending an email to mrpk9@mst.edu.
 
-[1] M. H. Rahman and S. Madria, "An Augmented Dataset for Vision-based Unmanned Aerial Vehicles Detection and Tracking," in Proceedings of the _IEEE Workshop on Applied Imagery Pattern Recognition (AIPR)_, 52nd ed., St. Louis, Missouri, USA, Sept 27-29, 2023.
+[1] Citation Bibtex:
+@INPROCEEDINGS{10440657,
+  author={Rahman, Md Hasibur and Madria, Sanjay},
+  booktitle={2023 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)}, 
+  title={An Augmented Dataset for Vision-based Unmanned Aerial Vehicles Detection and Tracking}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/AIPR60534.2023.10440657}}
 
-[2] J. Li, D. H. Ye, M. Kolsch, J. P. Wachs and C. A. Bouman, "Fast and Robust UAV to UAV Detection and Tracking From Video," in _IEEE Transactions on Emerging Topics in Computing_, vol. 10, no. 3, pp. 1519-1531, 1 July-Sept. 2022, doi: 10.1109/TETC.2021.3104555.
+
+[2] @ARTICLE{9519550,
+  author={Li, Jing and Ye, Dong Hye and Kolsch, Mathias and Wachs, Juan P. and Bouman, Charles A.},
+  journal={IEEE Transactions on Emerging Topics in Computing}, 
+  title={Fast and Robust UAV to UAV Detection and Tracking From Video}, 
+  year={2022},
+  volume={10},
+  number={3},
+  pages={1519-1531},
+  doi={10.1109/TETC.2021.3104555}}
+
